@@ -1,0 +1,9 @@
+{
+  "name": "vue-runtime-use",
+  "version": "1.0.1",
+  "description": "vue use in runtime",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT",
+  "private": false
+}
